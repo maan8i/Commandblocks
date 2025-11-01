@@ -2,7 +2,7 @@
 size: 1
 breakable: true
 update: true
-category: UnitEntiny
+category: UnitEntiny::new
 requirements: [
   metaglass/32
   silicon/16
