@@ -2,7 +2,7 @@
 size: 1
 breakable: true
 update: true
-category: units
+category: unit
 requirements: [
   metaglass/32
   silicon/16
